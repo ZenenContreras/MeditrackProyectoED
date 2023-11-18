@@ -1,0 +1,3 @@
+Adminuser|123|Admin
+User|123|Usuario
+Zenen|1234|Usuario
