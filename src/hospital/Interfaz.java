@@ -15,7 +15,7 @@ public class Interfaz extends javax.swing.JFrame {
     public Interfaz() {
         initComponents();
         
-        ImageIcon imgThisImg = new ImageIcon(new ImageIcon("src/images/U.jpg").getImage());
+        ImageIcon imgThisImg = new ImageIcon(new ImageIcon("src/images/portada.jpg").getImage());
 
         this.imageHolder.setIcon(imgThisImg);
     }

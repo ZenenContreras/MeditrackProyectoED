@@ -1,3 +1,5 @@
 Adminuser|123|Admin
 User|123|Usuario
-Zenen|1234|Usuario
+Miguel|123|Usuario
+user|123|Usuario
+Santyrua|sdrua|Usuario
